@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="280" viewBox="0 0 1040 280" role="img" aria-labelledby="title desc">
+<title id="title">Maxim Borisov — Backend Developer</title>
+<desc id="desc">Go, PostgreSQL and systems programming. Novosibirsk State University. Dark navy banner with mint accents and an orbital motif.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101c2e"/><stop offset="1" stop-color="#0d141f"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#7cbaff"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8bb2d2" stroke-opacity=".045"/></pattern>
+</defs>
+<rect x=".5" y=".5" width="1039" height="279" rx="18" fill="url(#bg)" stroke="#26354a"/>
+<rect x="1" y="1" width="1038" height="278" rx="18" fill="url(#grid)"/>
+<path d="M40 1H1000" stroke="url(#accent)" stroke-width="2" opacity=".8"/>
+<g fill="none" stroke="#5eead4" opacity=".18">
+ <ellipse cx="898" cy="129" rx="93" ry="42" transform="rotate(-35 898 129)"/>
+ <ellipse cx="898" cy="129" rx="93" ry="42" transform="rotate(35 898 129)"/>
+ <circle cx="898" cy="129" r="65" stroke="#7cbaff"/>
+ <circle cx="898" cy="129" r="22"/>
+ <path d="M898 23V41M898 217V235M792 129H810M986 129H1004"/>
+</g>
+<circle cx="898" cy="129" r="6" fill="#5eead4"/>
+<circle cx="958" cy="104" r="4" fill="#7cbaff"/>
+<circle cx="829" cy="167" r="3" fill="#5eead4"/>
+<g font-family="DejaVu Sans, sans-serif">
+ <text x="48" y="47" font-family="DejaVu Sans Mono,monospace" font-size="12" letter-spacing="2" fill="#90a6be">BORUS25 / BACKEND ENGINEERING</text>
+ <text x="45" y="119" font-size="50" font-weight="700" letter-spacing="-1.8" fill="#f1f5f9">Maxim Borisov<tspan fill="#5eead4">.</tspan></text>
+ <text x="48" y="157" font-size="19" fill="#a5b6cb">Go · PostgreSQL · Systems Programming</text>
+ <path d="M48 186H734" stroke="#29384b"/>
+ <circle cx="53" cy="219" r="4" fill="#5eead4"/>
+ <text x="68" y="224" font-family="DejaVu Sans Mono,monospace" font-size="13" fill="#a5b6cb">Novosibirsk, Russia</text>
+ <text x="325" y="224" font-family="DejaVu Sans Mono,monospace" font-size="13" fill="#7cbaff">Novosibirsk State University</text>
+ <text x="48" y="257" font-family="DejaVu Sans Mono,monospace" font-size="11" letter-spacing="1.3" fill="#67819d">UNDERSTAND THE SYSTEM. MEASURE THE BEHAVIOR.</text>
+</g>
+</svg>
