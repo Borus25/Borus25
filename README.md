@@ -85,7 +85,7 @@ Developed an experimental **PostgreSQL replication testbed** to investigate how 
 <h3>🐘 PostgreSQL Replication Testbed</h3>
 <p>Experimental environment for reproducing replication delays and studying their impact on transaction execution.</p>
 <p><code>C</code> <code>PostgreSQL</code> <code>HTTP API</code></p>
-<p><a href="https://github.com/Borus25/postgres-stand-for-test-synchronous">Explore repository →</a></p>
+<p><em>Company-owned project · Source code is not publicly available.</em></p>
 </td>
 <td width="50%" valign="top">
 <h3>📊 Monitoring &amp; Visualization</h3>
